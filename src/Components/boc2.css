@@ -1,0 +1,61 @@
+.boc{
+  display: inline-block;
+  text-align: center;
+  margin-top: -90px;
+}
+
+
+.pink{
+  background-color: #E7A1DC;
+}
+.pinkt{
+ color: #E7A1DC;
+}
+.bleut{
+  color: #FFC300   ;
+ }
+ .greent{
+  color: #23CAD9;
+ }
+ .yellowt{
+  color: #C70039  ;
+ }
+.bleu{
+  background-color: #FFC300    ;
+}
+.green{
+  background-color:#23CAD9;
+}
+.yellow{
+  background-color:#C70039  ;
+}
+
+.button {
+    display: inline-block;
+    padding: 1px 25px;
+    margin-top: -20px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: rgba(255, 255, 255, 0.014);
+    background-color: rgb(245, 245, 245);
+    border: none;
+    border-radius: 15px;
+    width: 200px;
+    height: 30px;
+  
+  }
+  
+
+  .border{
+
+    border: 3px solid rgb(114, 114, 114);
+    border-radius: 15px;
+    -webkit-box-shadow: -15px -11px 67px -4px rgba(163,163,163,1);
+    -moz-box-shadow: -15px -11px 67px -4px rgba(163,163,163,1);
+    box-shadow: -15px -11px 67px -4px rgba(163,163,163,1)
+  
+
+  }
